@@ -1,7 +1,13 @@
 h1 {
   color: red;
 }
+h2 {
+  font-size: 50px;
+  color: green;
+}
 body {
   color: #fff;
   background-color: #000;
+  font-family: helvetica;
+  font-size: 40px;
 }
